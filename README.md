@@ -18,3 +18,9 @@ PowerShell command settings for yamauz private use
 \*1 git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
 
 \*2 git log --graph --all --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+
+### yarn
+
+| Alias | Command     |
+| ----- | ----------- |
+| yad   | yarn add -D |
