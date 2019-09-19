@@ -24,3 +24,9 @@ PowerShell command settings for yamauz private use
 | Alias | Command     |
 | ----- | ----------- |
 | yad   | yarn add -D |
+
+### chocolatey
+
+| Alias | Command            |
+| ----- | ------------------ |
+| cinst | sudo choco install |
