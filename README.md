@@ -1,6 +1,6 @@
 # PowerShell Command Settings
 
-PowerShell cmmand settings for yamauz private use
+PowerShell command settings for yamauz private use
 
 ## Alias
 
